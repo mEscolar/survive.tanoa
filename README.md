@@ -2,13 +2,13 @@
 Repositorio con los archivos de la mision survive de Arma 3 en tanoa. Creada por el grupo FSG
 
 
-#### H4 Paquetes de mods
+#### Paquetes de mods
 Los mods usados para editar la mision estarán en el archivo "paquetes de mods.html"
-#### H4 Mapa
+#### Mapa
 Tanoa
-#### H4 Objetivo:
+#### Objetivo:
 Supervivencia, Campaña con objetivos con efecto en el tiempo y un objetivo de cierre
 Forma de trabajo:
 
-###### H6 Firmado
+###### Firmado
 mEscolar "Zorkahearts" y Navalon "Nava"
