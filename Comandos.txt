@@ -1,0 +1,3 @@
+Ejemplos:
+
+-Para las conversaciones, en el editor añadiremos un civil el cual en su nombre de variable pondremos "civ1", seguidamente en su campo init añadiremos el comando "call{this addAction[""Interrogar"", {remoteExec[""fnc_Svaneke_civ1_fail""]}];}" que llamará la conversación.
